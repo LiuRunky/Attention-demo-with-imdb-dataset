@@ -115,3 +115,9 @@ train_acc = 0.9247999787330627   test_acc = 0.7230799794197083
 epoch = 9
 train_acc = 0.9345999956130981   test_acc = 0.7319599986076355
 ```
+
+### References
+
+The original paper "Attention is All You Need": https://arxiv.org/abs/1706.03762
+
+A good tutorial for Attention mechanism (in Chinese): https://spaces.ac.cn/archives/4765
